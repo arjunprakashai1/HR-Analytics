@@ -3,7 +3,7 @@
 ## 📊 Project Overview
 
 ![Dahboard Overview](/Visuals/Dashboard%20Page.png)
-*Employee Attrition analysis Dashboard*
+*Employee Attrition analysis Dashboard. [clicke here](/HR%20Analytics%20Report/Employee%20Attrition%20Analysis.pbix) to go to Dashboard.*
 
 
 This Power BI project provides a comprehensive analysis of employee attrition patterns within an organization. The dashboard leverages interactive visualizations to identify key factors contributing to employee turnover and delivers actionable insights for strategic HR decision-making.
