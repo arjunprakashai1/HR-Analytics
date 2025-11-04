@@ -575,3 +575,38 @@ Long commutes affect:
 - ✅ Address compression issues (new hires vs. tenured employees)
 - ✅ Review gender pay gaps
 - ✅ Establish pay-for-performance frameworkRetryThis response paused because Claude reached its max length for a message. Hit continue to nudge Claude along.ContinueClaude can make mistakes. Please double-check responses. Sonnet 4.5
+---
+## 🛠️ Technical Skills Used
+
+1. **Data Analysis/Visualization Tool :** Power BI 
+
+2. **Data Manipulation & Querying :**
+- DAX (Data Analysis Expressions): Used for creating custom measures and calculated columns (e.g., calculating "Attrition Rate," "Average Monthly Income," and "Active Employee Count").
+
+- SQL/Power Query (M Language): Used for data extraction, cleaning, transformation, and loading (ETL) into the visualization tool.
+
+### Core Concepts & Business Intelligence:
+
+- Key Performance Indicator (KPI) Design: Defining and tracking crucial business metrics like "Attrition Rate" and "Job Satisfaction Rate."
+
+- Dashboard and UX Design: Creating a visually effective and user-friendly layout for quick decision-making.
+
+- Statistical Analysis: Utilizing demographics (Age, Marital Status, Gender) and internal factors (Over Time, Salary Range) to identify significant drivers of attrition.
+
+## 📝 Conclusion
+
+This project successfully delivered a comprehensive and interactive dashboard that transforms raw HR data into actionable business intelligence.
+
+### Key Achievements:
+
+- **Identified High-Risk Segments:** The analysis clearly pinpoints that the 18-20 age group has the highest attrition rate (83.33%), necessitating immediate intervention.
+
+- **Quantified Attrition Drivers:** The dashboard reveals significant correlations, such as the clear link between working Over Time and a higher attrition rate of 10.92%.
+
+- **Provided Strategic Insights:** By connecting factors like Marital Status (Divorced and Single have higher rates) and Distance from Home, the dashboard enables HR teams to develop targeted retention strategies, such as offering remote work options or focused support for at-risk demographics.
+
+- **Effective Data Storytelling:** The use of clear KPIs, drill-down capabilities (implied by the two pages), and intuitive visualizations ensures that stakeholders can quickly grasp complex data and move swiftly from insight to action.
+
+This project demonstrates proficiency in end-to-end data analysis, from data ingestion and calculation (DAX/M) to the final presentation of a user-centric, decision-support tool.
+
+-----
